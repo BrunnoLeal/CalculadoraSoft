@@ -1,0 +1,11 @@
+C:\Users\brunno.sleal\source\repos\CalculadoraSoft\CalculadoraSoft\bin\Debug\CalculadoraSoft.exe.config
+C:\Users\brunno.sleal\source\repos\CalculadoraSoft\CalculadoraSoft\bin\Debug\CalculadoraSoft.exe
+C:\Users\brunno.sleal\source\repos\CalculadoraSoft\CalculadoraSoft\bin\Debug\CalculadoraSoft.pdb
+C:\Users\brunno.sleal\source\repos\CalculadoraSoft\CalculadoraSoft\obj\Debug\CalculadoraSoft.csproj.AssemblyReference.cache
+C:\Users\brunno.sleal\source\repos\CalculadoraSoft\CalculadoraSoft\obj\Debug\CalculadoraSoft.csproj.SuggestedBindingRedirects.cache
+C:\Users\brunno.sleal\source\repos\CalculadoraSoft\CalculadoraSoft\obj\Debug\CalculadoraSoft.Form1.resources
+C:\Users\brunno.sleal\source\repos\CalculadoraSoft\CalculadoraSoft\obj\Debug\CalculadoraSoft.Properties.Resources.resources
+C:\Users\brunno.sleal\source\repos\CalculadoraSoft\CalculadoraSoft\obj\Debug\CalculadoraSoft.csproj.GenerateResource.cache
+C:\Users\brunno.sleal\source\repos\CalculadoraSoft\CalculadoraSoft\obj\Debug\CalculadoraSoft.csproj.CoreCompileInputs.cache
+C:\Users\brunno.sleal\source\repos\CalculadoraSoft\CalculadoraSoft\obj\Debug\CalculadoraSoft.exe
+C:\Users\brunno.sleal\source\repos\CalculadoraSoft\CalculadoraSoft\obj\Debug\CalculadoraSoft.pdb
